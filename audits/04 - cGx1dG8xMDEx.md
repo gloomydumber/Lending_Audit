@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <th>Target / Version</th>
-    <td>Git Repository (<a href="" target="_blank">-Lending-DEX-_solidity</a>): commit <mark>df61bf1d26cf2d0ec6059c2cacc83e6bbffb45e5 </mark> (<mark>main</mark> branch)</td>
+    <td>Git Repository (<a href="https://bit.ly/4cVXoM0" target="_blank">-Lending-DEX-_solidity</a>): commit <mark>df61bf1d26cf2d0ec6059c2cacc83e6bbffb45e5 </mark> (<mark>main</mark> branch)</td>
   </tr>
   <tr>
     <th>Application Type</th>
